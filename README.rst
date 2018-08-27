@@ -42,7 +42,7 @@ Databot is...
 
 - **Simple**
 
-Databot is easy to use and maintain, and does *not need configuration files* and know about asyncio and how to paralle .
+Databot is easy to use and maintain, and does *not need configuration files* and knowledge of asyncio nor how to write code for parallel processing.
 
 Here's one of the simple applications you can make.
 
